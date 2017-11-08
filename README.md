@@ -4,6 +4,8 @@
 [![Build Status](https://img.shields.io/travis/hyojin/material-ui-datatables/master.svg?style=flat-square)](https://travis-ci.org/hyojin/material-ui-datatables)
 [![Coverage Status](https://img.shields.io/coveralls/hyojin/material-ui-datatables/master.svg?style=flat-square)](https://coveralls.io/github/hyojin/material-ui-datatables?branch=master)
 
+This is a slight customised version of the original - https://www.npmjs.com/package/material-ui-datatables
+
 An another React Data tables component.  
 Material-UI-Datatables is a custom [React](https://facebook.github.io/react/) component using awesome [Material-UI](http://www.material-ui.com/). It provides rendering data and emitting events
  such as filter and column sort and pagination which may help you dealing with your data. But it doesn't provide features all done within the component. Most parts of this component are stateless, which means you need to implement your logic for the events.
